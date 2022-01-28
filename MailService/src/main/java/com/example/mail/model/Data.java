@@ -1,7 +1,12 @@
 package com.example.mail.model;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Data {
 	private String name;
+	@Id
 	private String email;
 	private Long phone;
 
