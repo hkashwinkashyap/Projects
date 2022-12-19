@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles.css">
+    <title>Car Registration</title>
+</head>
+<body>
+    <h1>Please Enter the following details for Registration</h1>
+    <form method="post">
+        <fieldset><label for="fname">First name:</label><br>
+            <legend>Name</legend>
+            <input type="text" id="fname" name="fname" placeholder="first name" required><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname" placeholder="last name" required>
+        </fieldset>
+        <fieldset>
+            <legend>Date of birth</legend>
+            <input type="date" name="dob" id="dob" required>
+            <label for="dob">dd/mm/yyyy</label>
+        </fieldset>
+        <fieldset>
+            <legend>Address</legend>
+            <textarea class="form-control" id="formControlTextarea" rows="3"></textarea>
+            <div>
+                <input type="text" name="postcode" id="postcode" placeholder="postcode" required>
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Car Registration number</legend>
+            <input type="text" name="carnumber" id="carnumber" placeholder="car number" required>
+        </fieldset>
+        <fieldset>
+            <legend>Picture of your car</legend>
+            <label for="img">Select image:</label>
+            <input type="file" id="img" name="img" accept="image/*" required>
+        </fieldset>
+        <fieldset>
+            <legend>Card details</legend>
+            <div>
+                <label for="name">Name</label>
+                <div>
+                    <input id="name" maxlength="20" type="text" required>
+                </div>
+            </div>
+            <input type="text" pattern="[0-9]*" inputmode="numeric" placeholder="16-digit card number" required>
+            <div>
+                <label for="expirationdate">Expiry date</label>
+                <div>
+                    <input id="expirationdate" type="text" pattern="[0-9]*" inputmode="numeric" required>
+                </div>
+            </div>
+            <div>
+                <label for="securitycode">CVV</label>
+                <div>
+                    <input id="securitycode" type="text" pattern="[0-9]*" inputmode="numeric" required>
+                </div>
+            </div>
+        </fieldset>
+        <button type="submit" class="btn">Submit</button>
+      </form>
+      
+</body>
+</html>
