@@ -1,0 +1,122 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-of-webpage {
+    font-size: 2rem;
+    margin: 20px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-bar {
+    overflow: hidden;
+}
+
+.active {
+    font-weight: bolder;
+}
+
+.nav-bar a {
+    float: left;
+    color: blue;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 14px;
+    padding-right: 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+/* home page*/
+.articles-container {
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.card-img-top {
+    border-radius: 8px;
+    width: 300px;
+}
+
+h5.card-title {
+    font-size: large;
+    color: blue;
+    margin: 10px;
+    margin-bottom: 5px;
+}
+
+.card-text {
+    font-size: small;
+}
+
+.article-block {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+
+/* article page */
+.article-content {
+    margin: 5%;
+    padding: 0 2% 0 2%;
+    text-align: center;
+}
+
+.article-img {
+    margin: 5%;
+}
+
+.related-articles {
+    margin: 30px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list-group-item {
+    margin-bottom: 5px;
+}
+
+/* contact page */
+
+.user-contact {
+    margin: 2%;
+    margin-top: 2%;
+    text-align: center;
+    padding: 1%;
+}
+
+.form-group {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+.form-control {
+    width: 300px;
+    height: 100px;
+    border-radius: 4px;
+    margin: 1%;
+}
+
+.form-name {
+    height: 20px;
+    font-size: 14pt;
+    width: 200px;
+    margin: 2%;
+    border-radius: 4px;
+}
+
+.btn {
+    width: 90px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    font-size: medium;
+}

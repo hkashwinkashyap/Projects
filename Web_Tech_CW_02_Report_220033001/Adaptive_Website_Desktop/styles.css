@@ -1,0 +1,134 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-of-webpage {
+    font-size: 2.5rem;
+    margin: 10px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-bar {
+    overflow: hidden;
+}
+
+.active {
+    font-weight: bolder;
+}
+
+.nav-bar a {
+    float: left;
+    color: blue;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 14px;
+    padding-right: 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* home page*/
+.articles-container {
+    margin-top: 1%;
+    margin-left: 3%;
+    margin-right: 2%;
+    text-align: center;
+}
+
+.card-img-top {
+    border-radius: 8px;
+    width: 100%;
+}
+
+h5.card-title {
+    font-size: x-large;
+    color: blue;
+    margin: 10px;
+    margin-bottom: 5px;
+}
+
+.card-text {
+    font-size: medium;
+}
+
+div.article-block {
+    float: left;
+    width: 22%;
+    height: 100px;
+    padding: 4px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+
+/* article page */
+.article-content {
+    margin: 5%;
+    padding: 0 2% 0 2%;
+}
+
+.article-img {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.related-articles {
+    margin: 40px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.list-group-item {
+    margin-bottom: 5px;
+}
+
+/* contact page */
+
+.user-contact {
+    margin: 3%;
+    margin-top: 2%;
+    text-align: center;
+    padding: 1%;
+}
+
+.form-group {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.form-control {
+    width: 100%;
+    height: 200px;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.form-name {
+    height: 20px;
+    font-size: 14pt;
+    width: 500px;
+    margin: 10px;
+    border-radius: 4px;
+}
+
+.btn {
+    width: 90px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    font-size: medium;
+}
