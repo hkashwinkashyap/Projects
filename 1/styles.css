@@ -1,0 +1,24 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+img {
+    float: left;
+    width: 10%;
+    margin: 10px;
+}
+
+.his-name {
+    margin: 10px;
+}
+
+.summ {
+    margin: 10px;
+}
+
+.left-col {
+    float: left;
+}
+
+.right-col {
+    float: right;
+}
