@@ -1,0 +1,417 @@
+{
+  "listOfAllRoutes" : [ {
+    "routeName" : "91 to St andrews, M&S",
+    "stopsInRoute" : [ {
+      "stopName" : "St andrews, old course hotel"
+    }, {
+      "stopName" : "St andrews, bus station"
+    }, {
+      "stopName" : "St andrews, market street"
+    }, {
+      "stopName" : "St andrews, south street"
+    }, {
+      "stopName" : "St andrews, north street"
+    }, {
+      "stopName" : "St andrews, dra"
+    }, {
+      "stopName" : "St andrews, Aldi"
+    }, {
+      "stopName" : "St andrews, morrisons"
+    }, {
+      "stopName" : "St andrews, M&S"
+    } ],
+    "trips" : [ {
+      "timeTableOfTrip" : {
+        "08:00" : {
+          "stopName" : "St andrews, old course hotel"
+        },
+        "08:10" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "08:20" : {
+          "stopName" : "St andrews, market street"
+        },
+        "08:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "08:40" : {
+          "stopName" : "St andrews, north street"
+        },
+        "08:50" : {
+          "stopName" : "St andrews, dra"
+        },
+        "09:00" : {
+          "stopName" : "St andrews, Aldi"
+        },
+        "09:10" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "09:20" : {
+          "stopName" : "St andrews, M&S"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "09:00" : {
+          "stopName" : "St andrews, old course hotel"
+        },
+        "09:10" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "09:20" : {
+          "stopName" : "St andrews, market street"
+        },
+        "09:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "09:40" : {
+          "stopName" : "St andrews, north street"
+        },
+        "09:50" : {
+          "stopName" : "St andrews, dra"
+        },
+        "10:00" : {
+          "stopName" : "St andrews, Aldi"
+        },
+        "10:10" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "10:20" : {
+          "stopName" : "St andrews, M&S"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "10:00" : {
+          "stopName" : "St andrews, old course hotel"
+        },
+        "10:10" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "10:20" : {
+          "stopName" : "St andrews, market street"
+        },
+        "10:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "10:40" : {
+          "stopName" : "St andrews, north street"
+        },
+        "10:50" : {
+          "stopName" : "St andrews, dra"
+        },
+        "11:00" : {
+          "stopName" : "St andrews, Aldi"
+        },
+        "11:10" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "11:20" : {
+          "stopName" : "St andrews, M&S"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "11:00" : {
+          "stopName" : "St andrews, old course hotel"
+        },
+        "11:10" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "11:20" : {
+          "stopName" : "St andrews, market street"
+        },
+        "11:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "11:40" : {
+          "stopName" : "St andrews, north street"
+        },
+        "11:50" : {
+          "stopName" : "St andrews, dra"
+        },
+        "12:00" : {
+          "stopName" : "St andrews, Aldi"
+        },
+        "12:10" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "12:20" : {
+          "stopName" : "St andrews, M&S"
+        }
+      }
+    } ]
+  }, {
+    "routeName" : "99 to Dundee, bus station",
+    "stopsInRoute" : [ {
+      "stopName" : "St andrews, bus station"
+    }, {
+      "stopName" : "Leuchars, train station"
+    }, {
+      "stopName" : "Cupar"
+    }, {
+      "stopName" : "Dundee, train station"
+    }, {
+      "stopName" : "Dundee, bus station"
+    } ],
+    "trips" : [ {
+      "timeTableOfTrip" : {
+        "08:00" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "08:10" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "08:20" : {
+          "stopName" : "Cupar"
+        },
+        "08:30" : {
+          "stopName" : "Dundee, train station"
+        },
+        "08:40" : {
+          "stopName" : "Dundee, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "09:00" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "09:10" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "09:20" : {
+          "stopName" : "Cupar"
+        },
+        "09:30" : {
+          "stopName" : "Dundee, train station"
+        },
+        "09:40" : {
+          "stopName" : "Dundee, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "10:00" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "10:10" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "10:20" : {
+          "stopName" : "Cupar"
+        },
+        "10:30" : {
+          "stopName" : "Dundee, train station"
+        },
+        "10:40" : {
+          "stopName" : "Dundee, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "11:00" : {
+          "stopName" : "St andrews, bus station"
+        },
+        "11:10" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "11:20" : {
+          "stopName" : "Cupar"
+        },
+        "11:30" : {
+          "stopName" : "Dundee, train station"
+        },
+        "11:40" : {
+          "stopName" : "Dundee, bus station"
+        }
+      }
+    } ]
+  }, {
+    "routeName" : "91 to St andrews, bus station",
+    "stopsInRoute" : [ {
+      "stopName" : "St andrews, morrisons"
+    }, {
+      "stopName" : "St andrews, dra"
+    }, {
+      "stopName" : "St andrews, north street"
+    }, {
+      "stopName" : "St andrews, south street"
+    }, {
+      "stopName" : "St andrews, market street"
+    }, {
+      "stopName" : "St andrews, bus station"
+    } ],
+    "trips" : [ {
+      "timeTableOfTrip" : {
+        "08:00" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "08:10" : {
+          "stopName" : "St andrews, dra"
+        },
+        "08:20" : {
+          "stopName" : "St andrews, north street"
+        },
+        "08:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "08:40" : {
+          "stopName" : "St andrews, market street"
+        },
+        "08:50" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "09:00" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "09:10" : {
+          "stopName" : "St andrews, dra"
+        },
+        "09:20" : {
+          "stopName" : "St andrews, north street"
+        },
+        "09:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "09:40" : {
+          "stopName" : "St andrews, market street"
+        },
+        "09:50" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "10:00" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "10:10" : {
+          "stopName" : "St andrews, dra"
+        },
+        "10:20" : {
+          "stopName" : "St andrews, north street"
+        },
+        "10:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "10:40" : {
+          "stopName" : "St andrews, market street"
+        },
+        "10:50" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "11:00" : {
+          "stopName" : "St andrews, morrisons"
+        },
+        "11:10" : {
+          "stopName" : "St andrews, dra"
+        },
+        "11:20" : {
+          "stopName" : "St andrews, north street"
+        },
+        "11:30" : {
+          "stopName" : "St andrews, south street"
+        },
+        "11:40" : {
+          "stopName" : "St andrews, market street"
+        },
+        "11:50" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    } ]
+  }, {
+    "routeName" : "99 to St andrews, bus station",
+    "stopsInRoute" : [ {
+      "stopName" : "Dundee, bus station"
+    }, {
+      "stopName" : "Dundee, train station"
+    }, {
+      "stopName" : "Cupar"
+    }, {
+      "stopName" : "Leuchars, train station"
+    }, {
+      "stopName" : "St andrews, bus station"
+    } ],
+    "trips" : [ {
+      "timeTableOfTrip" : {
+        "08:00" : {
+          "stopName" : "Dundee, bus station"
+        },
+        "08:10" : {
+          "stopName" : "Dundee, train station"
+        },
+        "08:20" : {
+          "stopName" : "Cupar"
+        },
+        "08:30" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "08:40" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "09:00" : {
+          "stopName" : "Dundee, bus station"
+        },
+        "09:10" : {
+          "stopName" : "Dundee, train station"
+        },
+        "09:20" : {
+          "stopName" : "Cupar"
+        },
+        "09:30" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "09:40" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "10:00" : {
+          "stopName" : "Dundee, bus station"
+        },
+        "10:10" : {
+          "stopName" : "Dundee, train station"
+        },
+        "10:20" : {
+          "stopName" : "Cupar"
+        },
+        "10:30" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "10:40" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    }, {
+      "timeTableOfTrip" : {
+        "11:00" : {
+          "stopName" : "Dundee, bus station"
+        },
+        "11:10" : {
+          "stopName" : "Dundee, train station"
+        },
+        "11:20" : {
+          "stopName" : "Cupar"
+        },
+        "11:30" : {
+          "stopName" : "Leuchars, train station"
+        },
+        "11:40" : {
+          "stopName" : "St andrews, bus station"
+        }
+      }
+    } ]
+  } ]
+}
