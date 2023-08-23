@@ -1,1 +1,1 @@
-**This is a practice repo for Computer Vision**
+**This is a practice and the dissertation repo for Computer Vision**
